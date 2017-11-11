@@ -50,6 +50,14 @@ a:focus {
   outline: none;
 }
 
+.hoverImg{
+   display: none
+}
+
+span:hover + hoverImg{
+   display: block;
+}
+
 button:focus {
   outline: none;
 }
