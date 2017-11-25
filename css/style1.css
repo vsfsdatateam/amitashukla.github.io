@@ -325,6 +325,7 @@ button:focus {
   
     background-position: 1000px 1000px;
     background-image: inherit;
+    background-size: 40em 40em;
     background-repeat: no-repeat;
 }
 
