@@ -329,7 +329,6 @@ button:focus {
 }
 
 a.grid__item:hover {
-    background: red !important;
     background-position: center center !important;
 }
 
