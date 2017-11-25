@@ -324,6 +324,10 @@ button:focus {
   justify-content: center;
 }
 
+.grid__item:hover { 
+    background-color: yellow;
+}
+
 /* Grid item "border" */
 .grid__item::before {
   position: absolute;
