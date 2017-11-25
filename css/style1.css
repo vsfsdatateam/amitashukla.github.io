@@ -324,8 +324,8 @@ button:focus {
   justify-content: center;
 }
 
-.grid__item:hover { 
-    background-color: yellow;
+a.grid__item:hover {
+    background: red !important;
 }
 
 /* Grid item "border" */
