@@ -322,10 +322,15 @@ button:focus {
   flex-direction: column;
   -webkit-justify-content: center;
   justify-content: center;
+  
+    background-position: 1000px 1000px;
+    background-image: inherit;
+    background-repeat: no-repeat;
 }
 
 a.grid__item:hover {
     background: red !important;
+    background-position: center center !important;
 }
 
 /* Grid item "border" */
